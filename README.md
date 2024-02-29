@@ -34,8 +34,8 @@ ___
         3-SEO optimization
 ___   
 ##Contact information :
-    My name is Omar Mohamed, Gmail is [Link Text](mrm227420@gmail.com)
-    ,linkedin is [Link Text](www.linkedincomin/omar-mohamed-5a6558265)
-    and Github [Link Text](omarmohamedreda).
+    My name is Omar Mohamed, Gmail is [Gmail](mrm227420@gmail.com)
+    ,linkedin is [linkedin](www.linkedincomin/omar-mohamed-5a6558265)
+    and Github [Github](omarmohamedreda).
 
 ___
