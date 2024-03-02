@@ -2,7 +2,7 @@
 
 Task-Manager (ToDo App) is a simple application using Html , CSS and Java Script.
 
-![image](/Screenshot%202024-03-02%20224519.png)
+
 
 ---
 
