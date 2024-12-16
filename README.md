@@ -1,15 +1,45 @@
-# Task-Manger
+# Task-Manager (ToDo App) 📝
 
-Task-Manager (ToDo App) is a simple application using Html , CSS and Java Script.
-
-
+Welcome to the **Task-Manager (ToDo App)**  This is a simple yet effective application for managing your daily tasks.
 
 ---
 
-## 🎯 Features
+## Features
 
-✅ Creating a task
+- ✅ **Add Tasks:**
+  - Easily add new tasks to your to-do list.
 
-✅ Deleting a task
+- ✏️ **Edit Tasks:**
+  - Modify existing tasks to keep your list up to date.
 
-✅ Editing a task
+- ❌ **Delete Tasks:**
+  - Remove completed or unnecessary tasks.
+
+- 🎨 **Responsive Design:**
+  - Optimized for various screen sizes and devices.
+
+- 💾 **Local Storage:**
+  - Automatically saves your tasks in the browser for persistence.
+
+---
+
+## Technologies Used
+
+- 🌐 **Frontend:** HTML, CSS, JavaScript
+
+---
+
+## Getting Started
+
+### Prerequisites
+
+- 🌐 A modern web browser
+
+
+
+## Author
+
+Created by [Omar Mohamed](https://github.com/omarmohamedreda). Feel free to connect with me for collaborations, feedback, or opportunities.
+
+---
+
